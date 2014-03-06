@@ -1,1 +1,1 @@
-This has been relocated to <https://github.com/github/teach.github.com>
+This has been relocated to <https://training.github.com>
